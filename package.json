@@ -1,0 +1,26 @@
+{
+  "name": "tw",
+  "version": "1.0.0",
+  "description": "tailwind classes",
+  "main": "ok",
+  "scripts": {
+    "test": "1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMojicaDev/tailwind-minireview.git"
+  },
+  "keywords": [
+    "tailwind",
+    "practices"
+  ],
+  "author": "DavidMojicaDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidMojicaDev/tailwind-minireview/issues"
+  },
+  "homepage": "https://github.com/DavidMojicaDev/tailwind-minireview#readme",
+  "devDependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
